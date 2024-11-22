@@ -28,8 +28,8 @@ class Student extends Person {
 
 }
 
-const person = value // Crear instancia de la clase Persona
-const student = value  // Crear instancia de la clase Estudiante
+const person = null // Crear instancia de la clase Persona
+const student = null  // Crear instancia de la clase Estudiante
 
 module.exports = {
   person,

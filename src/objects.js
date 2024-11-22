@@ -19,7 +19,7 @@ Object.setPrototypeOf(student, person);
 /**
  * Crea una nueva instancia de student usando Object.create.
  */
-const student2 = value; // coloca tu objeto aquí
+const student2 = null; // coloca tu objeto aquí
 
 module.exports = {
   person,
