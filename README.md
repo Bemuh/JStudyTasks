@@ -4,8 +4,8 @@ Este repositorio contiene ejercicios prácticos para mejorar tus habilidades con
 
 ## Instrucciones
 
-1. **Clona este repositorio**  
-   Si no sabes cómo clonar un repositorio, revisa este vídeo: [Cómo clonar un repositorio de Github](https://www.youtube.com/watch?v=rAnn6vtLm90).
+1. **Clona este repositorio**
+   Saldrán unas advertencias, pero no afectarán el uso de los scripts. Si no sabes cómo clonar un repositorio, revisa este vídeo: [Cómo clonar un repositorio de Github](https://www.youtube.com/watch?v=rAnn6vtLm90).
 
 2. **Abre la carpeta en VSCode**  
    Asegúrate de tener [Visual Studio Code](https://code.visualstudio.com/) instalado.
