@@ -20,27 +20,27 @@ Este repositorio contiene ejercicios prácticos para mejorar tus habilidades con
 4. **Realiza las tareas en la carpeta `./src/`**  
    Cada archivo en la carpeta `src` contiene ejercicios específicos. A continuación, se describen los archivos y las tareas:
 
-   ### 1. **classes.js**
+   ### A. classes.js
 
-   Aprende y aplica conceptos de clases y herencia en JavaScript. Implementa:
-   - La clase `Person` con propiedades `firstName` y `lastName`, y un método `getFullName`.
-   - La clase `Student`, que extiende de `Person`, con una propiedad adicional `grade` y un método `getGrade`.
+      Aprende y aplica conceptos de clases y herencia en JavaScript. Implementa:
+      - La clase `Person` con propiedades `firstName` y `lastName`, y un método `getFullName`.
+      - La clase `Student`, que extiende de `Person`, con una propiedad adicional `grade` y un método `getGrade`.
 
-   ### 2. **conditionsAndLoops.js**
+   ### B. conditionsAndLoops.js
 
    Resuelve problemas utilizando condiciones y bucles. Algunas de las tareas incluyen:
    - Implementar lógica con `if-else` y operadores ternarios.
    - Calcular descuentos basados en un rango de valores.
    - Implementar algoritmos factoriales usando `for`, `while` y `do..while`.
 
-   ### 3. **functions.js**
+   ### C. functions.js
 
    Trabaja con funciones declarativas, expresivas y flecha. Ejercicios incluyen:
    - Crear una función para sumar dos números.
    - Implementar una función que calcule si un número es impar.
    - Generar un texto dinámico como "gooooogle" basado en la cantidad de "o".
 
-   ### 4. **objects.js**
+   ### D. objects.js
 
    Aprende a trabajar con objetos en JavaScript. Tareas:
    - Crear un objeto `person` con propiedades y métodos.
